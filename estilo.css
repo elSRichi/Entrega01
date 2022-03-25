@@ -40,10 +40,10 @@ border-radius:50%;
 display:block;
 margin:auto;
 }
-h2
-{
+
+h2{
 text-align:center;
-color:white;
+color:black;
 font-family:'Fredoka One', cursive;
-background-color:red;
+background-color:yellow;
 }
